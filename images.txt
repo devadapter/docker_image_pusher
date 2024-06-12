@@ -3,3 +3,5 @@ redis
 golang:1.21.2-alpine3.18
 alpine
 alpine:3.18
+node:16.20-alpine3.17
+nginx:stable-alpine
